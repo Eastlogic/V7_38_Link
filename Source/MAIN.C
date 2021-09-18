@@ -2,7 +2,7 @@
 * Eastlogic Digital Lab.
 *
 * File              : main.c
-* Compiler          : IAR EWAAVR
+* Compiler          : IAR EWAAVR v.5.3
 * Revision          : Rev 1.0
 * Date              : Date: 10-08-2021
 * Author            : Reznikov Michael
@@ -16,7 +16,7 @@
 ****************************************************************************/
 #include "iom32.h"
 #include "intrinsics.h"
-#include "global_def.h"       // Глобальные макроопределения проекта
+#include "global_def.h"       // Project Macro definitions
 
 /*
 Tint  -> PD2 (INT0)

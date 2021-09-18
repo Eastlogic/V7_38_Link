@@ -1,7 +1,7 @@
 #ifndef _GLOBAL_DEF_H_
 #define _GLOBAL_DEF_H_
 
-#define ClkFreq 8000000               // Частота синхронизации МК
+#define ClkFreq 8000000               // Microcontroller system clock
 #define ClkFreqMHz (ClkFreq/1000000)
 
 #define TIM1_CLK_DIVIDER1    1
