@@ -16,7 +16,7 @@
 ****************************************************************************/
 #include "iom32.h"
 #include "intrinsics.h"
-#include "global_def.h"       // Ãëîáàëüíûå ìàêðîîïðåäåëåíèÿ ïðîåêòà
+#include "global_def.h"       // Project Macro definitions
 
 /*
 Tint  -> PD2 (INT0)
