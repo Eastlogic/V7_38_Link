@@ -2,7 +2,7 @@
 * Eastlogic Digital Lab.
 *
 * File              : main.c
-* Compiler          : IAR EWAAVR
+* Compiler          : IAR EWAAVR ver.5.3
 * Revision          : Rev 1.0
 * Date              : Date: 10-08-2021
 * Author            : Reznikov Michael
@@ -16,7 +16,7 @@
 ****************************************************************************/
 #include "iom32.h"
 #include "intrinsics.h"
-#include "global_def.h"       // Ãëîáàëüíûå ìàêðîîïðåäåëåíèÿ ïðîåêòà
+#include "global_def.h"       // ÃƒÃ«Ã®Ã¡Ã Ã«Ã¼Ã­Ã»Ã¥ Ã¬Ã ÃªÃ°Ã®Ã®Ã¯Ã°Ã¥Ã¤Ã¥Ã«Ã¥Ã­Ã¨Ã¿ Ã¯Ã°Ã®Ã¥ÃªÃ²Ã 
 
 /*
 Tint  -> PD2 (INT0)
